@@ -1,6 +1,7 @@
 .container {
     display: grid;
     align-items: center;
+    place-items: center;
     justify-content: center;
     height: 100vh;
 }
@@ -23,6 +24,14 @@
     color: var(--azul-medio);
     font-weight: bold;
     font-size: 21px;
+}
+
+.erro {
+    color: var(--azul-medio);
+    font-weight: bold;
+    font-size: 21px;
+    text-align: center;
+    justify-items: c;
 }
 
 .campo__escrita {
