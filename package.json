@@ -1,0 +1,22 @@
+{
+  "name": "requests-w-javascript-aluraplay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iago-monteirog/requests-w-javascript-ALURAPLAY.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iago-monteirog/requests-w-javascript-ALURAPLAY/issues"
+  },
+  "homepage": "https://github.com/iago-monteirog/requests-w-javascript-ALURAPLAY#readme",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
